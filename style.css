@@ -1,0 +1,9 @@
+#bubbleOne {
+  background: lightblue;
+  position: absolute;
+  bottom: 50%;
+  top: 0;
+  left: 0;
+  right: 0;
+  min-height: 100%;
+ } 
