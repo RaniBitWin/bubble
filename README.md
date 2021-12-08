@@ -1,5 +1,5 @@
 ## bubble
-- This app is a demonstration of using the 3d.js library and svg.
+- This app is a demonstration of using the 3d.js library and SVG.
 - When clicking anywhere on the screen bubbles with colored borders appear:
   - From the bottom of the page towards the top of the page;
   - From the top of the page towards the bottom of the page;
